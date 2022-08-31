@@ -1,0 +1,134 @@
+{
+  "users": [
+    {
+      "id": "f6a5415b-716a-4e3e-b7ba-6cc6fd0f7ae4",
+      "firstName": "Abraham Lincoln",
+      "lastName": "asd",
+      "email": "gohar.eghiazaryan@mail.ru",
+      "address": "America LA",
+      "phone": "37494595353",
+      "age": "84",
+      "role": "admin"
+    },
+    {
+      "id": "e0745b42-0f30-485e-bb2e-4e0397b1ac17",
+      "firstName": "asd",
+      "lastName": "Xachatryan",
+      "email": "ashot@gmail.com",
+      "address": "New-Yoke",
+      "phone": "48845",
+      "age": "32",
+      "role": "admin"
+    },
+    {
+      "id": "2729ed09-b935-4022-8fe1-b6119701a121",
+      "firstName": "Mariam",
+      "lastName": "Hayrapetyan",
+      "email": "hayrapetyan@mail.ru",
+      "address": "Erevan",
+      "phone": "84512",
+      "age": "21",
+      "role": "admin"
+    },
+    {
+      "id": "8f56ff5asfc4-03b0-40b9-957e-30942e614361",
+      "firstName": "asdasd",
+      "lastName": "Eghiazaryan",
+      "email": "eghiazaryan@mail.ru",
+      "address": "fewascx",
+      "phone": "8456",
+      "age": "47",
+      "role": "moderator"
+    },
+    {
+      "id": "8f56ff54-03b0-40b9-957e-30942fwqsafsde614361",
+      "firstName": "Arman",
+      "lastName": "Eghiazaryan",
+      "email": "eghiazaryan@mail.ru",
+      "address": "Nar-Dos",
+      "phone": "8456",
+      "age": "47",
+      "role": "moderator"
+    },
+    {
+      "id": "8f56ff54-03b0-40bfewscdscwas9-957e-30942e614361",
+      "firstName": "asdasd",
+      "lastName": "Eghiazaryan",
+      "email": "eghiazaryan@mail.ru",
+      "address": "fewascx",
+      "phone": "8456",
+      "age": "47",
+      "role": "moderator"
+    },
+    {
+      "id": "8f56ff54-03b0-4wqfdsacwqds0b9-957e-30942e614361",
+      "firstName": "asdasd",
+      "lastName": "Eghiazaryan",
+      "email": "eghiazaryan@mail.ru",
+      "address": "fewascx",
+      "phone": "8456",
+      "age": "47",
+      "role": "moderator"
+    },
+    {
+      "id": "44b9827d-a3845258962356923f9-4d8a-acf8-cd79403316a3",
+      "firstName": "Artur",
+      "lastName": "Harutyunyan",
+      "email": "eghiazaryan@mail.ru",
+      "address": "Gyumri",
+      "phone": "8789465",
+      "age": "78",
+      "role": "moderator"
+    },
+    {
+      "id": "44b9827d-a3f9-4d8a-48587457845845acf8-cd79403316a3",
+      "firstName": "Hayk",
+      "lastName": "Harutyunyan",
+      "email": "eghiazaryan@mail.ru",
+      "address": "Yerevan",
+      "phone": "8789465",
+      "age": "78",
+      "role": "moderator"
+    },
+    {
+      "id": "44b9827d-a3f9-4d8a485854596562845125612-acf8-cd79403316a3",
+      "firstName": "Hayk",
+      "lastName": "Harutyunyan",
+      "email": "eghiazaryan@mail.ru",
+      "address": "Yerevan",
+      "phone": "8789465",
+      "age": "78",
+      "role": "moderator"
+    },
+    {
+      "id": "44b9000000000000000000000000000000000000000827d-a3f9-4d8a-acf8-cd79403316a3",
+      "firstName": "Hayk",
+      "lastName": "Harutyunyan",
+      "email": "eghiazaryan@mail.ru",
+      "address": "Yerevan",
+      "phone": "8789465",
+      "age": "78",
+      "role": "moderator"
+    },
+    {
+      "id": "44b9827d-a3f9-4d7777777777777777777778a-acf8-cd79403316a3",
+      "firstName": "Hayk",
+      "lastName": "Harutyunyan",
+      "email": "eghiazaryan@mail.ru",
+      "address": "Yerevan",
+      "phone": "8789465",
+      "age": "78",
+      "role": "moderator"
+    },
+    {
+      "id": "47411525212111111111111111118654b9827d-a3f9-4d8a-acf8-cd79403316a3",
+      "firstName": "Hayk",
+      "lastName": "Harutyunyan",
+      "email": "eghiazaryan@mail.ru",
+      "address": "Yerevan",
+      "phone": "8789465",
+      "age": "78",
+      "role": "moderator"
+    }
+  ]
+}
